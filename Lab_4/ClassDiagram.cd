@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Editor" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASQAACAACEAAAAAABAAQAAAADAAAgAAEQAAkAAAAAA=</HashCode>
+      <FileName>Editor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EllipseShape" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAIAAAAAAgAAAAAEAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Ellipse_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineShape" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAgAAAAAEAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Line_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointShape" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAgAAAAAEAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Point_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RectangleShape" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAgAAAAAEAAAAAACAAAAAAAI=</HashCode>
+      <FileName>Rectangle_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shape" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABgAAAAAAAAAACgABAAAEAAAAAAiAAAAACAA=</HashCode>
+      <FileName>Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Toolbar" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAgAAEAACACAAAAAAAAAAgAgAAAA=</HashCode>
+      <FileName>Toolbar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OLineOShape" Collapsed="true">
+    <Position X="10.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAgAAAAAEAAAAAACAAAAAAAA=</HashCode>
+      <FileName>OLineO_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CubeShape" Collapsed="true">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAgAAAAAEAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Cube_Shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
